@@ -4,11 +4,12 @@ Brute Force Facebook With Wordlist
 >> apt-get install git python3 python3-pip python python-pip
 # Run commands one by one
 >> git clone https://github.com/SECURITY87/FB-brt
->>pip3 install requests bs4
->>Pip Install sys
->>Pip Install mechanize
->>Pip Install cookielib
->>Pip Install random
+>> cd FB-brt
+>> pip3 install requests bs4
+>> Pip Install sys
+>> Pip Install mechanize
+>> Pip Install cookielib
+>> Pip Install random
 # Protection Against Attacker
 
     >Use Strong Password(which contains standard password chars + longest as possible)
