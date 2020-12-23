@@ -5,7 +5,7 @@ Brute Force Facebook With Wordlist
  apt-get install git python3 python3-pip python python-pip
 '''
 # Run commands one by one
->> git clone https://github.com/SECURITY87/FB-brt <br>
+   > git clone https://github.com/SECURITY87/FB-brt <br>
 >> cd FB-brt <br>
 >> pip3 install requests bs4<br>
 >> Pip Install sys<br>
